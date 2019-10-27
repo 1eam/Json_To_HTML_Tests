@@ -1,0 +1,28 @@
+{
+    "users": [
+        {
+            "name": "Esther",
+            "age": 19,
+            "demo": "Animals - DJ Esther",
+            "uploadDate": "23-07-2019"
+        },
+        {
+            "name": "Vladi",
+            "age": 20,
+            "demo": "We as human - DJ Vladi",
+            "uploadDate": "02-07-2019"
+        },
+        {
+            "name": "John",
+            "age": 24,
+            "demo": "Dance with me - DJ John",
+            "uploadDate": "15-03-2017"
+        },
+        {
+            "name": "Nathalie",
+            "age": 22,
+            "demo": "Dont stop - DJ Nathalie",
+            "uploadDate": "27-10-2018"
+        }
+    ]
+}
